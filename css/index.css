@@ -169,7 +169,7 @@ html{
 /* 두번째 로고있는 배너 */
 
 .banner1 {
-    background: url(../images/banner2cnadle.png);
+    background: url(../images/banner2cnadle.png) center 0;
     height: 920px;
     padding: 40px 0;
 
